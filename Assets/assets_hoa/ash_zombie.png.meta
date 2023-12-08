@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 912317c3652aaa44aa5befa16806c166
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ash_zombie_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1001
+        width: 87
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe353cb248b4149a14b548cc6a65b0
+      internalID: 161907881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1002
+        width: 89
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681433b4d8551a47b9e7c417b55d10f
+      internalID: 1278172857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1004
+        width: 76
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f866d149938f86b4a856f4fc2c2dd855
+      internalID: 2114902810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1001
+        width: 76
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b78a457f055b4c86c032f473d89bb
+      internalID: 592896725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 997
+        width: 75
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f29c754720363489aa481175b60d21
+      internalID: 1085265512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 83
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94076040a38a56e41b97617b1fefeaa8
+      internalID: -395405637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 799
+        width: 74
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6730b85e2d8cdc4ab5bc321fd7d7270
+      internalID: 718581135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 799
+        width: 74
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd54bbb66f3cff4fb835392de23f3ec
+      internalID: -708903531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 800
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a90b65f4182c0548a531ac6946f9207
+      internalID: -1697649190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 799
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d107be5e60520d459f2516521773507
+      internalID: 786854067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 83
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024d40493872dc4abfdef9728ddab7c
+      internalID: 428455417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 853
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a784c62010534ea0f834b24fe801e
+      internalID: -612335785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 799
+        width: 81
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a9fa45e73ae4d4983556acd4a267ee
+      internalID: -212740508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 83
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56863f746fa677e478070909cbc285c9
+      internalID: -849858624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 83
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635f9bf600336154f890d82bdea74745
+      internalID: -1113133704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 83
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc518ae5b6e6d34b99494205af6ccd4
+      internalID: -234567714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 599
+        width: 84
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636eeba482f436b4791b15d314dd7edb
+      internalID: -1961103948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 600
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d928c192c54c3dc46815f01a22230ca5
+      internalID: 1713122073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 600
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ede885ac77ee8640950678d1e256f15
+      internalID: -238908684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 600
+        width: 82
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7858637d2768d1545b10c268ebd2ba4d
+      internalID: -10934754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 601
+        width: 83
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a680a5a52dbf7741bc22411285f3fda
+      internalID: -5550515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 78
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbcf38405f4cb44ab46458d01eea0ec
+      internalID: -1915910213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 400
+        width: 82
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64203306a9e50141afb57dfc4319cf1
+      internalID: 1706611756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 401
+        width: 76
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e120d03746663354587ed0243d0cd8b2
+      internalID: 1382908576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 399
+        width: 79
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c756e542c65434380e8eb2591dba62
+      internalID: 662188679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 399
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a956bd79a1ba4a49a203a50324233c1
+      internalID: -1533052145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 83
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a429cdf6ee89f4e9fbc7c0e4588e03
+      internalID: 1938882187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 198
+        width: 83
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d090b960a3bc4eb823f42fec5cb95
+      internalID: 2124762071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 198
+        width: 75
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9b49e6b02c954eb3672d9ecfa3c77
+      internalID: 147582458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 198
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb0ac51327d0e4d9524f673aba2149
+      internalID: 131630832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ash_zombie_54
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 198
+        width: 79
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c954a8e94f817a45b1df580730b5490
+      internalID: -1861907977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ash_zombie_0: 161907881
+      ash_zombie_1: 1278172857
+      ash_zombie_10: 428455417
+      ash_zombie_11: -612335785
+      ash_zombie_12: -212740508
+      ash_zombie_13: -849858624
+      ash_zombie_14: -1113133704
+      ash_zombie_15: -234567714
+      ash_zombie_16: 582704856
+      ash_zombie_17: -1961103948
+      ash_zombie_18: 1713122073
+      ash_zombie_19: -238908684
+      ash_zombie_2: 2114902810
+      ash_zombie_20: -10934754
+      ash_zombie_21: -5550515
+      ash_zombie_22: -1614984462
+      ash_zombie_23: -1346222406
+      ash_zombie_24: -1832068584
+      ash_zombie_25: 1914433228
+      ash_zombie_26: -1147804018
+      ash_zombie_27: -1915910213
+      ash_zombie_28: 1706611756
+      ash_zombie_29: 1382908576
+      ash_zombie_3: 592896725
+      ash_zombie_30: 662188679
+      ash_zombie_31: -1533052145
+      ash_zombie_32: 373641962
+      ash_zombie_33: -1067773371
+      ash_zombie_34: -1334048115
+      ash_zombie_35: -1764807750
+      ash_zombie_36: 2105931105
+      ash_zombie_37: 1938882187
+      ash_zombie_38: 2124762071
+      ash_zombie_39: 147582458
+      ash_zombie_4: 1085265512
+      ash_zombie_40: 131630832
+      ash_zombie_41: -953650362
+      ash_zombie_42: 1719197602
+      ash_zombie_43: 938828760
+      ash_zombie_44: -788621828
+      ash_zombie_45: 2125073647
+      ash_zombie_46: -892953936
+      ash_zombie_47: 858328101
+      ash_zombie_48: -1369390810
+      ash_zombie_49: -1646367852
+      ash_zombie_5: -395405637
+      ash_zombie_50: -2074285111
+      ash_zombie_51: 335652616
+      ash_zombie_52: 114097069
+      ash_zombie_53: 726405257
+      ash_zombie_54: -1861907977
+      ash_zombie_55: -1017928759
+      ash_zombie_56: 624983506
+      ash_zombie_57: -757504674
+      ash_zombie_58: 1718670037
+      ash_zombie_59: 938183238
+      ash_zombie_6: 718581135
+      ash_zombie_60: -936884844
+      ash_zombie_61: -1194470316
+      ash_zombie_62: -491609283
+      ash_zombie_63: -63126578
+      ash_zombie_64: -718229557
+      ash_zombie_65: -1117904957
+      ash_zombie_66: 28295638
+      ash_zombie_67: 1326356040
+      ash_zombie_7: -708903531
+      ash_zombie_8: -1697649190
+      ash_zombie_9: 786854067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
